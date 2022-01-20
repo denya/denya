@@ -15,4 +15,4 @@ I'm [Denis Moskalets](https://www.linkedin.com/in/denyamsk/), founder and CTO of
 - 🚀 **Python** expert
 - 📱 **Flutter** enthusiast
 - 🇷🇺 From Moscow, Russia
-- 🇪🇸 Moved to Barcelona, Spain
+- 🇪🇸 Based in Barcelona, Spain
