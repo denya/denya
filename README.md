@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**denya/denya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Denis Moskalets](https://www.linkedin.com/in/denyamsk/), founder and CTO of PAWEN and software engineer with 15+ years of experience.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PAWEN Logo](https://static.tildacdn.com/tild6338-6631-4434-b666-643837353765/Horisontal_Rectangle.svg#gh-dark-mode-only)
+![PAWEN Logo](https://thumb.tildacdn.com/tild6466-3365-4164-b938-396262356662/-/resize/432x/-/format/webp/Horisontal_Rectangle.png#gh-light-mode-only)
+
+
+I'm founder of [PAWEN](https://pawen.app) — Physical Activity & Wellness Guide, mobile application that helps you achieve the best performance and progress by taking into account your physical, emotional and mental states.
+
+[![Get PAWEN iOS application](https://thumb.tildacdn.com/tild3961-3065-4965-b964-613762636338/-/resize/396x/-/format/webp/App_Store_Clean.png)](https://apps.apple.com/gb/app/pawnen-running/id1568467648?utm_source=direct&utm_medium=github.com&utm_campaign=denya_profile)
+
+---
+
+- 💰 **Startupbootcamp Barcelona** 2016 alumni (as founder of fintech mobile app Combine)
+- 🚀 **Python** expert
+- 📱 **Flutter** enthusiast
+- 🇷🇺 From Moscow, Russia
+- 🇪🇸 Moved to Barcelona, Spain
