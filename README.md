@@ -1,17 +1,32 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm [Denis Moskalets](https://www.linkedin.com/in/denyamsk/), founder and CTO of [PAWEN](https://pawen.app) and software engineer with 15+ years of experience.
-
-![PAWEN Logo](https://thumb.tildacdn.com/tild6466-3365-4164-b938-396262356662/-/resize/432x/-/format/webp/Horisontal_Rectangle.png)
-
-
-[PAWEN](https://pawen.app) — Physical Activity & Wellness Guide, mobile application that helps you achieve the best performance and progress by taking into account your physical, emotional and mental states.
-
-[![Get PAWEN iOS application](https://thumb.tildacdn.com/tild3961-3065-4965-b964-613762636338/-/resize/396x/-/format/webp/App_Store_Clean.png)](https://apps.apple.com/gb/app/pawnen-running/id1568467648?utm_source=direct&utm_medium=github.com&utm_campaign=denya_profile)
+🇪🇸 Expert in Startup Relocation to Spain (DM me!)
+🏦 Ex-Startup Founder | 🧑‍💻 Software Engineer, Entrepreneur
+🍸 Cocktail Bar Owner
 
 ---
 
-- 💰 **Startupbootcamp Barcelona** 2016 alumni (as founder of fintech mobile app Combine)
+I'm [Denis Moskalets](https://www.linkedin.com/in/denyamsk/), Entrepreneur and software engineer with 18+ years of experience.
+
+![256 256 logo transparent DALL·E 2023-11-14 23 07 39 - Design a larger, square logo for 'Spanish Residence Permit for Startup Founders' in a cubism style, incorporating elements of the Sagrada Familia into copy](https://github.com/denya/denya/assets/572768/8e2a6318-959f-4132-98aa-0c05c77f3345)
+
+
+## Free Relocation Guides 2023
+#### Spanish Startup Residence Permit: A Comprehensive Guide
+
+https://bit.ly/es-startup-residence-permit-2024
+
+#### Spanish Startup Residence Permit: A Comprehensive Guide (RUS edition)
+
+https://bit.ly/startup-visa-ultimate-guide
+
+#### Digital Nomads in Spain Guide (RUS edition)
+
+https://bit.ly/spain-digital-nomad 
+
+---
+
+- 💰 **Startupbootcamp Barcelona** 2016 alumni (as ex-founder & CTO of fintech app Combine)
 - 🚀 **Python** expert
 - 📱 **Flutter** enthusiast
 - 🇷🇺 From Moscow, Russia
