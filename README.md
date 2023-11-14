@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🇪🇸 Expert in Startup Relocation to Spain (DM me!)
-🏦 Ex-Startup Founder | 🧑‍💻 Software Engineer, Entrepreneur
-🍸 Cocktail Bar Owner
+- 🇪🇸 Expert in Startup Relocation to Spain (DM me!)
+- 🏦 Ex-Startup Founder | 🧑‍💻 Software Engineer, Entrepreneur
+- 🍸 Cocktail Bar Owner
 
 ---
 
