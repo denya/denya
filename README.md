@@ -29,5 +29,4 @@ https://bit.ly/spain-digital-nomad
 - 💰 **Startupbootcamp Barcelona** 2016 alumni (as ex-founder & CTO of fintech app Combine)
 - 🚀 **Python** expert
 - 📱 **Flutter** enthusiast
-- 🇷🇺 From Moscow, Russia
-- 🇪🇸 Based in Barcelona, Spain
+- 🇪🇸 Barcelona, Spain
